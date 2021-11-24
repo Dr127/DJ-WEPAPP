@@ -1,0 +1,23 @@
+body{
+    background: cover;
+}
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.heading:hover{
+    background-image: linear-gradient(to top right, #fcba03, #fc7f03, #fc1c03);
+}
+#name{
+    font-size: 19px;
+    width: 20%;
+    margin-top: 10px;
+}
+#name:hover{
+    Background-image: linear-gradient(to top left, #fc1c03 ,#fc7f03,#fcba03);
+}
