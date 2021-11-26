@@ -1,5 +1,5 @@
 body{
-    background: cover;
+    background-size: contain;
 }
 .heading{
     font-size: 23px;
@@ -20,4 +20,9 @@ body{
 }
 #name:hover{
     Background-image: linear-gradient(to top left, #fc1c03 ,#fc7f03,#fcba03);
+}
+canvas{
+    border:5px solid white;
+    border-radius: 10px;
+    margin:5px;
 }
